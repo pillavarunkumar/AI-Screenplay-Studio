@@ -1,0 +1,564 @@
+[
+  {
+    "id": "lighthouse-letters",
+    "title": "The Lighthouse Letters",
+    "correctedIdea": "A burned-out nurse inherits her estranged father's lighthouse and finds letters from a woman he never mentioned.",
+    "synopsis": {
+      "setup": "Nora, a burned-out nurse, inherits a lighthouse from the father she stopped speaking to years ago. She plans to sell it and leave.",
+      "complication": "Inside, she finds letters to a woman he never mentioned. The woman's daughter, Mara, arrives with a claim on the property and a version of her father Nora never knew.",
+      "resolution": "Nora chooses to share the lighthouse and the truth, giving up the clean break she thought she wanted."
+    },
+    "bible": {
+      "tone": "wintry, restrained, aching",
+      "characters": [
+        {
+          "name": "Nora",
+          "role": "Protagonist",
+          "summary": "A burned-out nurse who deflects emotion with logistics."
+        },
+        {
+          "name": "Mara",
+          "role": "Supporting",
+          "summary": "The daughter of the woman in the letters, direct and unsentimental."
+        }
+      ],
+      "facts": [
+        "Nora's father owned the lighthouse and never mentioned Mara's mother.",
+        "Nora is an only child.",
+        "The lighthouse is on a remote cliff and the ferry leaves at dawn.",
+        "Mara arrives with a tin of letters that matches Nora's."
+      ]
+    },
+    "scene": {
+      "heading": "INT. LIGHTHOUSE KITCHEN - NIGHT",
+      "summary": "Nora finds letters addressed to a woman she has never heard of and hides them when Mara knocks.",
+      "elements": [
+        {
+          "id": "lh-1",
+          "type": "action",
+          "text": "Nora sets a rusted tin of letters on the kitchen table. The lighthouse beam sweeps the wall."
+        },
+        {
+          "id": "lh-2",
+          "type": "action",
+          "text": "A knock lands on the door. She slides the letters under a plate."
+        },
+        {
+          "id": "lh-3",
+          "type": "character",
+          "text": "NORA"
+        },
+        {
+          "id": "lh-4",
+          "type": "dialogue",
+          "text": "Nobody's home."
+        }
+      ]
+    },
+    "rubric": {
+      "emotionKeywords": ["grief", "loss", "quiet", "restrained", "ache", "hollow", "tender"],
+      "antiEmotionKeywords": ["zany", "slapstick", "hilarious", "wacky"],
+      "expectedMentions": ["letters", "lighthouse", "Nora"],
+      "forbiddenMentions": ["Nora's sister", "city apartment", "Mara's father"]
+    },
+    "stubFlavor": "strong"
+  },
+  {
+    "id": "night-bus",
+    "title": "Night Bus",
+    "correctedIdea": "A night-shift bus driver gives a stranded teenager a ride home and recognizes the street where his own son used to live.",
+    "synopsis": {
+      "setup": "Ellis drives the 3:10 bus through an empty city. He has learned to prefer the quiet.",
+      "complication": "Jo, a teenager with no fare, gets on at the last stop. Ellis breaks the rules to drive her home, and the route passes Marlow Street.",
+      "resolution": "Ellis tells Jo one true thing about his son, then finishes the route with the radio off."
+    },
+    "bible": {
+      "tone": "lonely, gentle, unsentimental",
+      "characters": [
+        {
+          "name": "Ellis",
+          "role": "Protagonist",
+          "summary": "A night bus driver who has made a religion of routine."
+        },
+        {
+          "name": "Jo",
+          "role": "Supporting",
+          "summary": "A stranded teenager who is too proud to ask for help directly."
+        }
+      ],
+      "facts": [
+        "Ellis drives the 3:10 bus.",
+        "Jo missed the last bus and has no fare.",
+        "Ellis's son died two years ago.",
+        "The route passes Marlow Street.",
+        "Ellis has not spoken about his son to anyone at work."
+      ]
+    },
+    "scene": {
+      "heading": "INT. CITY BUS - NIGHT",
+      "summary": "Jo gets on without fare. Ellis lets the bus idle while the empty street waits, and Marlow Street comes up on the route.",
+      "elements": [
+        {
+          "id": "nb-1",
+          "type": "action",
+          "text": "Rain films the bus windows. Jo stands by the fare box, counting coins that are not there."
+        },
+        {
+          "id": "nb-2",
+          "type": "character",
+          "text": "ELLIS"
+        },
+        {
+          "id": "nb-3",
+          "type": "dialogue",
+          "text": "You getting on, or just decorating the doorway?"
+        }
+      ]
+    },
+    "rubric": {
+      "emotionKeywords": ["lonely", "gentle", "grief", "quiet", "tired", "kind", "tender"],
+      "antiEmotionKeywords": ["zany", "slapstick", "hilarious", "raucous"],
+      "expectedMentions": ["bus", "Marlow Street", "Ellis"],
+      "forbiddenMentions": ["Ellis's daughter", "Jo is Ellis's son", "daylight"]
+    },
+    "stubFlavor": "strong"
+  },
+  {
+    "id": "last-shift",
+    "title": "Last Shift",
+    "correctedIdea": "A kitchen porter on his final shift finds a wedding ring in the dishwasher and must decide whether to report it before the restaurant closes.",
+    "synopsis": {
+      "setup": "Pavel has one shift left before he leaves the restaurant for good. He needs Rosa's reference and cannot afford a mistake.",
+      "complication": "A wedding ring comes out of the dishwasher. Reporting it means admitting he opened the machine; keeping it means carrying someone else's marriage out the door.",
+      "resolution": "Pavel returns the ring to the bride but tells Rosa the truth, and she writes the reference anyway."
+    },
+    "bible": {
+      "tone": "exhausted, tense, claustrophobic",
+      "characters": [
+        {
+          "name": "Pavel",
+          "role": "Protagonist",
+          "summary": "A kitchen porter who is careful because careful is all he has left."
+        },
+        {
+          "name": "Rosa",
+          "role": "Supporting",
+          "summary": "The manager, brisk and fair, who notices more than she says."
+        }
+      ],
+      "facts": [
+        "Pavel quits tomorrow.",
+        "The ring belongs to a bride from table 9.",
+        "The restaurant closes in one hour.",
+        "Pavel needs Rosa's reference.",
+        "The dishwasher was not supposed to be running."
+      ]
+    },
+    "scene": {
+      "heading": "INT. RESTAURANT KITCHEN - NIGHT",
+      "summary": "Pavel finds the ring in the dishwasher as the kitchen closes around him, and Rosa asks why the machine is running.",
+      "elements": [
+        {
+          "id": "ls-1",
+          "type": "action",
+          "text": "Steam pours from the dishwasher. Pavel reaches into the cutlery basket and comes out with a gold ring."
+        },
+        {
+          "id": "ls-2",
+          "type": "character",
+          "text": "ROSA"
+        },
+        {
+          "id": "ls-3",
+          "type": "dialogue",
+          "text": "Why is that machine on?"
+        }
+      ]
+    },
+    "rubric": {
+      "emotionKeywords": ["exhausted", "tense", "dread", "pressure", "claustrophobic", "anxious"],
+      "antiEmotionKeywords": ["zany", "celebratory", "hilarious", "carefree"],
+      "expectedMentions": ["ring", "dishwasher", "Pavel"],
+      "forbiddenMentions": ["Pavel owns the restaurant", "the ring is plastic", "morning shift"]
+    },
+    "stubFlavor": "strong"
+  },
+  {
+    "id": "rooftop-garden",
+    "title": "Rooftop Garden",
+    "correctedIdea": "Two neighbors who have never spoken build a rooftop garden during a heatwave and discover they are fighting the same eviction.",
+    "synopsis": {
+      "setup": "Lena waters a single tomato plant on a forbidden rooftop. Mr. Okafor has been growing things up there for years without telling anyone.",
+      "complication": "The building is being sold. Their landlord's eviction notice is already taped inside the lobby, and the garden is the only thing either of them can control.",
+      "resolution": "They bring the garden down to the street as a public protest, turning a private refuge into a shared claim on the building."
+    },
+    "bible": {
+      "tone": "hopeful, defiant, sun-warmed",
+      "characters": [
+        {
+          "name": "Lena",
+          "role": "Protagonist",
+          "summary": "A tenant who is stubborn in small, practical ways."
+        },
+        {
+          "name": "Mr. Okafor",
+          "role": "Supporting",
+          "summary": "A long-time resident who has been quietly breaking the rooftop rule for decades."
+        }
+      ],
+      "facts": [
+        "The building is being sold.",
+        "The rooftop is forbidden by the lease.",
+        "It is day 12 of a heatwave.",
+        "Lena grows tomatoes.",
+        "Mr. Okafor has lived in the building for 30 years.",
+        "An eviction notice is taped inside the lobby."
+      ]
+    },
+    "scene": {
+      "heading": "EXT. APARTMENT ROOFTOP - DUSK",
+      "summary": "Lena finds Mr. Okafor watering tomatoes on the forbidden roof and realizes he has seen the eviction notice too.",
+      "elements": [
+        {
+          "id": "rg-1",
+          "type": "action",
+          "text": "Heat rises off the tar paper. Mr. Okafor waters a row of tomato plants in old paint buckets."
+        },
+        {
+          "id": "rg-2",
+          "type": "character",
+          "text": "LENA"
+        },
+        {
+          "id": "rg-3",
+          "type": "dialogue",
+          "text": "How long have you been doing this?"
+        }
+      ]
+    },
+    "rubric": {
+      "emotionKeywords": ["hope", "defiance", "warmth", "sweat", "stubborn", "tender", "sun-warmed"],
+      "antiEmotionKeywords": ["bleak", "hopeless", "zany", "hilarious"],
+      "expectedMentions": ["garden", "tomatoes", "Lena"],
+      "forbiddenMentions": ["Lena's landlord is her father", "the building was sold last year", "winter"]
+    },
+    "stubFlavor": "strong"
+  },
+  {
+    "id": "the-collector",
+    "title": "The Collector",
+    "correctedIdea": "A small-time debt collector visits a bakery to collect from a woman who once helped him, and his boss is listening on the phone.",
+    "synopsis": {
+      "setup": "Cal collects protection money for Voss. He is good at it because he is afraid of Voss.",
+      "complication": "His next stop is Ines's bakery. Ines gave Cal his first job years ago, and Voss is listening on speakerphone while Cal asks her for money.",
+      "resolution": "Cal lies to Voss about the amount, pays the shortfall himself, and leaves the bakery with Ines's silence between them."
+    },
+    "bible": {
+      "tone": "menacing, humid, desperate",
+      "characters": [
+        {
+          "name": "Cal",
+          "role": "Protagonist",
+          "summary": "A debt collector who survives by making himself smaller than the room."
+        },
+        {
+          "name": "Ines",
+          "role": "Supporting",
+          "summary": "A baker who once gave Cal a chance and has not forgotten it."
+        },
+        {
+          "name": "Voss",
+          "role": "Antagonist",
+          "summary": "Cal's boss, present only as a voice on the phone."
+        }
+      ],
+      "facts": [
+        "Cal owes Voss money.",
+        "Ines gave Cal a job years ago.",
+        "The bakery is behind on protection payments.",
+        "Voss records calls.",
+        "Cal is collecting in person while Voss listens on speakerphone."
+      ]
+    },
+    "scene": {
+      "heading": "INT. BAKERY - AFTERNOON",
+      "summary": "Cal arrives to collect from Ines while Voss listens on the phone, and the smell of bread makes the threat feel worse.",
+      "elements": [
+        {
+          "id": "tc-1",
+          "type": "action",
+          "text": "The phone lies face up on the counter, call timer running. Ines slides a tray of rolls into the display case."
+        },
+        {
+          "id": "tc-2",
+          "type": "character",
+          "text": "CAL"
+        },
+        {
+          "id": "tc-3",
+          "type": "dialogue",
+          "text": "You know why I'm here."
+        }
+      ]
+    },
+    "rubric": {
+      "emotionKeywords": ["menace", "fear", "shame", "heat", "pressure", "desperation"],
+      "antiEmotionKeywords": ["playful", "lighthearted", "zany", "hilarious"],
+      "expectedMentions": ["bakery", "phone", "Cal"],
+      "forbiddenMentions": ["Cal owns the bakery", "Voss is Cal's brother", "police station"]
+    },
+    "stubFlavor": "strong"
+  },
+  {
+    "id": "best-man-speech",
+    "title": "The Best Man's Speech",
+    "correctedIdea": "A best man improvises a speech after discovering the groom's secret is printed on the back of his notes.",
+    "synopsis": {
+      "setup": "Denny has prepared a safe, funny speech for Marcus and Priya's wedding. He wants to get through it without revealing how much he will miss his friend.",
+      "complication": "On the back of his notes is Marcus's private plan to quit his job and open a bakery. Priya has not been told.",
+      "resolution": "Denny folds the notes away and gives a speech about change that lets Marcus choose when to tell her."
+    },
+    "bible": {
+      "tone": "awkward, warm, wry",
+      "characters": [
+        {
+          "name": "Denny",
+          "role": "Protagonist",
+          "summary": "The best man, funny in crowds and terrified of sincerity."
+        },
+        {
+          "name": "Priya",
+          "role": "Supporting",
+          "summary": "The bride, a surgeon with a low tolerance for nonsense."
+        },
+        {
+          "name": "Marcus",
+          "role": "Supporting",
+          "summary": "The groom, who fears public speaking and change in equal measure."
+        }
+      ],
+      "facts": [
+        "Denny is the best man.",
+        "Marcus has a fear of public speaking.",
+        "Priya is a surgeon.",
+        "The wedding is at a vineyard.",
+        "Marcus is quitting his job to open a bakery.",
+        "Priya does not know about the bakery yet."
+      ]
+    },
+    "scene": {
+      "heading": "INT. VINEYARD TENT - EVENING",
+      "summary": "Denny stands up to give the speech, sees the bakery plan on the back of his notes, and has to decide what not to say.",
+      "elements": [
+        {
+          "id": "bm-1",
+          "type": "action",
+          "text": "Denny taps his glass. The tent quiets. He sees writing on the back of his notes that is not his."
+        },
+        {
+          "id": "bm-2",
+          "type": "character",
+          "text": "DENNY"
+        },
+        {
+          "id": "bm-3",
+          "type": "dialogue",
+          "text": "I had a whole speech. Then I reread my notes."
+        }
+      ]
+    },
+    "rubric": {
+      "emotionKeywords": ["awkward", "warm", "wry", "embarrassment", "affection", "panic"],
+      "antiEmotionKeywords": ["tragic", "grim", "zany", "hilarious"],
+      "expectedMentions": ["speech", "bakery", "Denny"],
+      "forbiddenMentions": ["Marcus is marrying someone else", "Denny is the groom", "funeral"]
+    },
+    "stubFlavor": "strong"
+  },
+  {
+    "id": "signal-lost",
+    "title": "Signal Lost",
+    "correctedIdea": "A radio operator at a remote Antarctic station hears a voice on a dead frequency that claims to be her own.",
+    "synopsis": {
+      "setup": "Wren has been alone at the station for 40 days. The radio has been dead since the storm took the antenna.",
+      "complication": "Tonight the radio speaks. The voice knows Wren's childhood nickname and describes the room behind her.",
+      "resolution": "Wren answers the voice, and the station's lights go out one room at a time."
+    },
+    "bible": {
+      "tone": "isolated, eerie, urgent",
+      "characters": [
+        {
+          "name": "Wren",
+          "role": "Protagonist",
+          "summary": "A radio operator who trusts equipment more than people."
+        },
+        {
+          "name": "The Voice",
+          "role": "Antagonist",
+          "summary": "A presence on the dead frequency that sounds exactly like Wren."
+        }
+      ],
+      "facts": [
+        "The station has been cut off for 40 days.",
+        "Wren is the only one awake.",
+        "The radio was dead before tonight.",
+        "The voice knows Wren's childhood nickname.",
+        "The storm took the antenna."
+      ]
+    },
+    "scene": {
+      "heading": "INT. RADIO ROOM - NIGHT",
+      "summary": "The dead radio crackles with Wren's own voice, and the station lights begin to fail as she answers.",
+      "elements": [
+        {
+          "id": "sl-1",
+          "type": "action",
+          "text": "Static fills the radio room. Wren's hand hovers over the transmit key."
+        },
+        {
+          "id": "sl-2",
+          "type": "character",
+          "text": "WREN"
+        },
+        {
+          "id": "sl-3",
+          "type": "dialogue",
+          "text": "Who is this?"
+        }
+      ]
+    },
+    "rubric": {
+      "emotionKeywords": ["isolation", "eerie", "fear", "urgency", "cold", "uncanny"],
+      "antiEmotionKeywords": ["cozy", "cheerful", "zany", "hilarious"],
+      "expectedMentions": ["radio", "station", "Wren"],
+      "forbiddenMentions": ["Wren is on a beach", "the station is in the city", "the radio works normally"]
+    },
+    "stubFlavor": "generic-technique"
+  },
+  {
+    "id": "the-inheritance",
+    "title": "The Inheritance",
+    "correctedIdea": "A woman returns to her childhood home to settle her late mother's estate and finds her estranged brother already living there.",
+    "synopsis": {
+      "setup": "Ruth is the executor of her mother's estate. She has not spoken to her brother Simon in a year.",
+      "complication": "Simon has been living in the house since their mother died. He has changed the locks and wants to buy Ruth out.",
+      "resolution": "Ruth finds their mother's will in a drawer and learns the house was left to both of them, with one condition."
+    },
+    "bible": {
+      "tone": "suspicious, dry, brittle",
+      "characters": [
+        {
+          "name": "Ruth",
+          "role": "Protagonist",
+          "summary": "The executor, precise and unwilling to be made a fool of."
+        },
+        {
+          "name": "Simon",
+          "role": "Antagonist",
+          "summary": "The estranged brother, settled in the house and already defending it."
+        }
+      ],
+      "facts": [
+        "Their mother died six weeks ago.",
+        "Simon has lived in the house for a year.",
+        "Ruth is the executor.",
+        "The house is in a coastal town.",
+        "There is no sister.",
+        "Simon has changed the locks."
+      ]
+    },
+    "scene": {
+      "heading": "INT. FAMILY HOME - LIVING ROOM - DAY",
+      "summary": "Ruth arrives to inventory the house and finds Simon already living in it, with the locks changed and the will missing.",
+      "elements": [
+        {
+          "id": "ti-1",
+          "type": "action",
+          "text": "Ruth's key does not fit the front door. Simon opens it from inside, holding a mug."
+        },
+        {
+          "id": "ti-2",
+          "type": "character",
+          "text": "RUTH"
+        },
+        {
+          "id": "ti-3",
+          "type": "dialogue",
+          "text": "You changed the locks."
+        }
+      ]
+    },
+    "rubric": {
+      "emotionKeywords": ["suspicion", "resentment", "brittle", "grief", "caution"],
+      "antiEmotionKeywords": ["joyful reunion", "celebratory", "zany", "hilarious"],
+      "expectedMentions": ["house", "executor", "Ruth"],
+      "forbiddenMentions": ["Ruth's sister", "Simon is the executor", "the house is in the city", "their mother is alive"]
+    },
+    "stubFlavor": "contradiction"
+  },
+  {
+    "id": "sunday-gravy",
+    "title": "Sunday Gravy",
+    "correctedIdea": "Three siblings argue over their late mother's sauce recipe while the pot burns on the stove.",
+    "synopsis": {
+      "setup": "Angela has cooked her mother's Sunday sauce every week since the funeral. Tony and Dee have come to help, or to divide the house.",
+      "complication": "No one wrote the recipe down. Tony wants to sell the house, Dee wants the recipe, and the pot starts to burn.",
+      "resolution": "They save the sauce together, badly, and agree to cook it again next Sunday."
+    },
+    "bible": {
+      "tone": "grieving, combustible, affectionate",
+      "characters": [
+        {
+          "name": "Angela",
+          "role": "Protagonist",
+          "summary": "The eldest, who has made caretaking her whole personality."
+        },
+        {
+          "name": "Tony",
+          "role": "Supporting",
+          "summary": "The brother who talks about the house when he means something else."
+        },
+        {
+          "name": "Dee",
+          "role": "Supporting",
+          "summary": "The youngest, who remembers the recipe differently than anyone else."
+        }
+      ],
+      "facts": [
+        "Their mother died last month.",
+        "The recipe was never written down.",
+        "Angela has cooked it every Sunday since.",
+        "Tony wants to sell the house.",
+        "The pot is burning."
+      ]
+    },
+    "scene": {
+      "heading": "INT. FAMILY KITCHEN - SUNDAY",
+      "summary": "The siblings argue over the recipe while smoke rises from the pot, and each of them remembers their mother differently.",
+      "elements": [
+        {
+          "id": "sg-1",
+          "type": "action",
+          "text": "Smoke curls from the pot. Angela stirs harder, as if speed could fix the recipe."
+        },
+        {
+          "id": "sg-2",
+          "type": "character",
+          "text": "TONY"
+        },
+        {
+          "id": "sg-3",
+          "type": "dialogue",
+          "text": "She never wrote it down because she wanted us to need her."
+        }
+      ]
+    },
+    "rubric": {
+      "emotionKeywords": ["grief", "anger", "love", "smoke", "panic", "affection"],
+      "antiEmotionKeywords": ["hilarious", "zany", "slapstick", "comedy"],
+      "expectedMentions": ["sauce", "mother", "Angela"],
+      "forbiddenMentions": ["their father's recipe", "the kitchen is empty", "the pot is cold"]
+    },
+    "stubFlavor": "tone-deaf"
+  }
+]
